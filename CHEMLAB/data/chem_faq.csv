@@ -1,0 +1,9 @@
+question,answer,topic
+How do I prepare 1M NaCl solution?,To prepare 1L of 1 M NaCl solution: Calculate moles = 1 mol/L × 1 L = 1 mol. Molar mass of NaCl ≈ 58.44 g/mol. Weigh 58.44 g NaCl, transfer to a volumetric flask, dissolve in some distilled water, and make up the volume to 1 L.,Solutions
+How do I prepare 0.1M HCl from concentrated HCl?,Assume concentrated HCl is 12 M. Use C1V1 = C2V2. For 1 L of 0.1 M HCl: V1 = (0.1 × 1000 mL) / 12 ≈ 8.3 mL. Carefully pipette 8.3 mL conc. HCl into ~800 mL water with stirring (always add acid to water), then dilute to 1 L.,Solutions
+What is the principle of acid base titration?,In an acid-base titration, a solution of known concentration (titrant) is added to a solution of unknown concentration (analyte) until the reaction reaches the equivalence point. An indicator or a pH meter is used to detect this point, allowing calculation of the unknown concentration.,Titration
+How do I calculate moles from mass?,Use the relationship: moles = mass (g) / molar mass (g/mol). For example, 10 g NaCl with molar mass 58.44 g/mol corresponds to 10 / 58.44 ≈ 0.171 mol.,Stoichiometry
+What is the ideal gas law?,The ideal gas law is PV = nRT, where P is pressure, V is volume, n is moles of gas, R is the gas constant, and T is temperature in Kelvin.,Physical Chemistry
+What are safety precautions when handling concentrated acids?,Wear lab coat, safety goggles, and acid-resistant gloves. Work in a well-ventilated area or fume hood. Always add acid to water, never water to acid. In case of skin contact, rinse with plenty of water and seek medical attention if needed.,Safety
+How do I convert between Celsius and Kelvin?,To convert °C to K, use K = °C + 273.15. For example, 25°C = 298.15 K.,Basic Concepts
+What is a buffer solution?,A buffer solution resists changes in pH when small amounts of acid or base are added. It typically consists of a weak acid and its conjugate base or a weak base and its conjugate acid.,Solutions
